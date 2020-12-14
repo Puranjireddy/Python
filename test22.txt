@@ -1,0 +1,6 @@
+dsdsd
+sdsdsd
+sdsd
+sds
+dsdjsdkj
+/usr/bin/bash: wq: command not found
