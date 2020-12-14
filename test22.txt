@@ -3,4 +3,5 @@ sdsdsd
 sdsd
 sds
 dsdjsdkj
-/usr/bin/bash: wq: command not found
+removed junk data
+added new line from Git hub repor
